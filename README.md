@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I'm <i>Athipathi Janarth</i></h1>
 
 
 ![](https://komarev.com/ghpvc/?username=Athipathi-Janarth&label=VIEWS&color=brightgreen&style=plastic)
