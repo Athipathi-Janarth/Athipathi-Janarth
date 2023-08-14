@@ -17,7 +17,7 @@ const athi = {
 		backEnd: {
 			js: ['node', 'express.js'],
 			java: ['core','Spring Boot'],
-      c#: ['MVC','enitiy Framework'],
+			c#: ['MVC','enitiy Framework'],
 		},
 		devOps: ['AWS','Azure'],
 		databases: ['MySql', 'mongo', 'sqlite']
