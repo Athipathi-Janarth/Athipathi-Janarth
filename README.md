@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Athipathi-Janarth&label=VIEWS&color=brightgreen&style=plastic)
 
+<h4>Software Engineer. I just find pleasure in understanding how things work.</h4>
 
 ```javascript
 const athi = {
