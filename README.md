@@ -3,13 +3,18 @@
 
 ![](https://komarev.com/ghpvc/?username=Athipathi-Janarth&label=VIEWS&color=brightgreen&style=plastic)
 
-<h4>Software Engineer. I just find pleasure in understanding how things work.</h4>
+
+<h4 align="center">Software Engineer. I just find pleasure in understanding how things work.</h4>
+
+<h5 align="center"> Graduate Student at Northeastern University </h5>
 
 ```javascript
 const athi = {
 	pronouns: 'He' | 'Him',
-	code: ['C#','Java', 'Javascript'],
-	askMeAbout: ['web dev', 'tech', 'photography', 'travel'],
+        degree: "Master's in Information System",
+        role: 'Full Stack Developer' || 'Software Engineer',
+	code: ['C#','Java', 'Javascript', 'Swift'],
+	askMeAbout: ['web dev', 'tech', 'photography', 'travel', 'food-blogging'],
 	technologies: {
 		frontEnd: {
 			js: ['React', 'Angular', 'Vue'],
@@ -21,8 +26,10 @@ const athi = {
 			c#: ['MVC','enitiy Framework'],
 		},
 		devOps: ['AWS','Azure'],
-		databases: ['MySql', 'mongo', 'sqlite']
-	}
+		databases: ['MySql', 'mongo', 'sqlite'],
+                tools: ['sitecore', 'git', 'MS suite']
+	},
+ 	experience: ['Accenture','ScanBuy']
 };
 ```
 <!--
